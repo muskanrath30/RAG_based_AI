@@ -1,10 +1,8 @@
-# retrieval.py
 from imports import index_data
 
 def retrieve_data(query):
     db = index_data()
-    # Perform retrieval based on the query using similarity search
-    results = db.similarity_search(query, k=5)  # Retrieve top 5 relevant documents
+    results = db.similarity_search(query, k=5)
 
     # Extract relevant page content and prioritize based on keywords in metadata
     context = []
