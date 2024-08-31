@@ -1,4 +1,4 @@
-# RAG_based_AI system to answer questions about myself
+# RAG based AI system to answer questions about myself
 
 programming language python - 3.10 (version)
 
