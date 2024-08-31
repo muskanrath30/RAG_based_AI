@@ -1,4 +1,3 @@
-# indexing.py
 from imports import ingest_data
 from langchain.vectorstores.chroma import Chroma
 from langchain_community.embeddings.ollama import OllamaEmbeddings
