@@ -1,0 +1,53 @@
+Hi, my name is Muskan Rath. 
+
+I like playing instruments like Guitar, singing and pursuing other hobbies during my free time.
+I was born and brought up in Odisha, completed my schooling and Bachelor's there and shifted to Mumbai for my Post Graduation in Artifical Intelligence and Data Science. I have been staying in Mumbai for the last two years. 
+I am a single child.I am an inquisitive person, curious to learn about new things.
+I am currently working in Relaince Industries limited. I have also worked in organisations like Accenture and Cartesian consulting
+
+Here's my professional/work experience-
+1. Organisation: Reliance Industries Limited
+Designation: Manager | IT Executive 2 - Petrochemical department (Data Science)
+Duration: June 2023 - Present (1 year 3 months)
+Location: Navi Mumbai, Maharashtra, India
+Roles and responsibilities:
+1) working on Data Science projects
+2) Complete ML lifecycle being followed for execution of projects
+3) Delivering projects which align with the needs of the business teams, taking
+feedbacks from them and implementing them in future project
+4) Guiding team members on concepts related to Data Science for delivery of
+projects
+5) Mentoring interns on AI/ML and Data Science use-cases.
+
+2. Organisation: Accenture in India
+Designation: Associate Software Engineer
+Duration: October 2021 - July 2022 (10 months)
+Location: Navi Mumbai, Maharashtra, India
+Roles and responsibilities:
+- Worked in Cloud Transformation domain
+- Pre-migration as well as post-migration tasks pertaining software applications
+which were migrated from client's datacentre to cloud platforms like Google
+Cloud Engine
+
+3. Cartesian Consulting
+Designation: Software Engineering Trainee
+Duration: July 2021 - September 2021 (3 months)
+Location: Bangalore Urban, Karnataka, India
+Roles and responsibilities:
+• Worked in SOLUS project using SQL and Unix
+• Provided system maintenance and support procedures for log files update,
+database tables and stored procedures
+• Worked as part of backend development team in projects using MySQL
+database
+• Also familiar with concepts associated with SOLUS Project like Marketing
+Analytics, Customer Analytics, CRM, business analytics, Data visualization,
+and product development.
+• Implemented the tasks provided by the product development team
+• Set up pipelines for different brands
+• Performed other brands specific operations like supporting, monitoring loads
+in Unix, configuring campaigns and providing results of the analysis done by
+the analyst team using technologies like Linux and SQL.
+• Developed and configured the entire database for the ETL job using SQL and
+Unix for multiple brands
+
+Muskan has 2.5 - 3 years of work experience.
