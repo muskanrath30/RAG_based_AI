@@ -60,7 +60,7 @@ def ingest_text_file_data(file_path='personal_info.txt'):
 
 def ingest_data():
     """Main function to ingest data from multiple sources."""
-    pdf_data, education, experience, projects = ingest_pdf_data()  # Ensure this returns the expected components
+    pdf_data, education, experience, projects = ingest_pdf_data()
     text_data = ingest_text_file_data()
 
     # Combine all data sources into one
@@ -71,7 +71,7 @@ def ingest_data():
     else:
         print("Data successfully ingested from all sources.")
 
-    return all_data, education, experience, projects  # Ensure it returns all expected values
+    return all_data, education, experience, projects
 
 if __name__ == "__main__":
     try:
